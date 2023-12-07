@@ -5,7 +5,8 @@
     "02-1": "ts-node 02/1.ts",
     "02-2": "ts-node 02/2.ts",
     "03-1": "ts-node 03/1.ts",
-    "03-2": "ts-node 03/2.ts"
+    "03-2": "ts-node 03/2.ts",
+    "04-1": "ts-node 04/1.ts"
   },
   "dependencies": {
     "ts-node": "^10.9.1",
